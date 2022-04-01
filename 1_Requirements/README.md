@@ -44,6 +44,7 @@ The Customer Virtual Wallet System interacts with :
 
 ## SWOT Analysis
 ![](SWOT.png)
+)
 
 # High and Low Level Requirements
 
